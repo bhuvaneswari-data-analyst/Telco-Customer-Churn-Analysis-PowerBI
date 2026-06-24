@@ -7,7 +7,6 @@ This project presents an interactive Power BI dashboard developed using the Telc
 The objective is to identify key factors influencing customer churn and provide actionable business recommendations to improve customer retention.
 
 ---
-
 ## Dashboard Features
 
 ### Executive Overview
