@@ -111,7 +111,7 @@ The objective is to identify key factors influencing customer churn and provide 
 
 ### Revenue & Retention Analysis
 
-![Revenue & Retention Analysis](Screenshots/revenue_retention_analysis.png)
+![Revenue & Retention Analysis](Screenshots/revenue%20_retention_analysis.png)
 
 ---
 
